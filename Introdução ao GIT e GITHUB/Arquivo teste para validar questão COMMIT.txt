@@ -1,1 +1,5 @@
 Este arquivo foi criado para que seja validada a duvida se é possível criar vários Commits e só depois enviar para o GITHUB
+
+# Edit1
+
+* Criado para validar a questão da criação do Commit antes do envio a GITHUB; 
