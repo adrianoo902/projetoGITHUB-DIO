@@ -12,3 +12,8 @@ Este arquivo foi criado para que seja validada a duvida se é possível criar v�
 
 * Validei que os Commits ficam pendentes para envio
 * Vou enviar estes Commits criados no Local, após validar volto aqui para confirmar se o que pensava estava correto
+
+# Edit 3
+
+* Validei que realmente os Commits ficam pendentes de envio para o SRV do GITHUB
+
