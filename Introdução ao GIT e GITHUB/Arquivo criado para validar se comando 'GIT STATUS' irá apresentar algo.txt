@@ -1,1 +1,8 @@
-## Olá :smile_cat:
+## Olá Adriano:smile_cat:
+
+Este arquivo de extensão .md foi criado para validar os comandos básicos do GIT BASH
+Comandos usados:
+
+* git status
+* git add .
+* git commit - m "Teste para validar o GIT STATUS"
