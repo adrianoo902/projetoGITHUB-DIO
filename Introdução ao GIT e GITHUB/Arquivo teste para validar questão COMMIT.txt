@@ -1,5 +1,14 @@
 Este arquivo foi criado para que seja validada a duvida se é possível criar vários Commits e só depois enviar para o GITHUB
 
+![image-20220911225951467](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220911225951467.png)
+
 # Edit1
 
 * Criado para validar a questão da criação do Commit antes do envio a GITHUB; 
+
+![image-20220911230133660](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220911230133660.png)
+
+# Edit 2
+
+* Validei que os Commits ficam pendentes para envio
+* Vou enviar estes Commits criados no Local, após validar volto aqui para confirmar se o que pensava estava correto
