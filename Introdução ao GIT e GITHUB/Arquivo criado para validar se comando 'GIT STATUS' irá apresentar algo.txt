@@ -5,4 +5,4 @@ Comandos usados:
 
 * git status
 * git add .
-* git commit - m "Teste para validar o GIT STATUS"
+* git commit - m "Teste para validar o GIT STATUS"git status
